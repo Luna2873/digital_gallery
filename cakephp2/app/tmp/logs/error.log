@@ -1,0 +1,1205 @@
+2015-03-16 23:42:04 Error: [MissingControllerException] Controller class IndexController could not be found.
+Exception Attributes: array (
+  'class' => 'IndexController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp2/index
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-16 23:42:37 Error: [MissingControllerException] Controller class IndexController could not be found.
+Exception Attributes: array (
+  'class' => 'IndexController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp2/index
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-16 23:44:25 Error: [MissingControllerException] Controller class PostsController could not be found.
+Exception Attributes: array (
+  'class' => 'PostsController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp2/posts/index
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-16 23:44:36 Error: [MissingControllerException] Controller class PostController could not be found.
+Exception Attributes: array (
+  'class' => 'PostController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp2/post/index
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-16 23:44:51 Error: [MissingControllerException] Controller class PostsController could not be found.
+Exception Attributes: array (
+  'class' => 'PostsController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp2/posts/index
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-16 23:45:29 Error: [MissingControllerException] Controller class PostsController could not be found.
+Exception Attributes: array (
+  'class' => 'PostsController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp2/posts/index
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-16 23:45:31 Error: [MissingControllerException] Controller class PostsController could not be found.
+Exception Attributes: array (
+  'class' => 'PostsController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp2/posts/index
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-16 23:45:57 Error: [MissingControllerException] Controller class PostsController could not be found.
+Exception Attributes: array (
+  'class' => 'PostsController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp2/posts/index
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-16 23:47:59 Error: [MissingControllerException] Controller class PostsController could not be found.
+Exception Attributes: array (
+  'class' => 'PostsController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp2/posts/index
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-16 23:48:12 Error: [MissingControllerException] Controller class PostsController could not be found.
+Exception Attributes: array (
+  'class' => 'PostsController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp2/posts/index
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-16 23:48:29 Error: [MissingControllerException] Controller class PostsController could not be found.
+Exception Attributes: array (
+  'class' => 'PostsController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp2/posts/index
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-16 23:51:00 Error: [MissingControllerException] Controller class PostsController could not be found.
+Exception Attributes: array (
+  'class' => 'PostsController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp2/posts/index
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-16 23:52:20 Error: [MissingControllerException] Controller class PostsController could not be found.
+Exception Attributes: array (
+  'class' => 'PostsController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp2/posts/index
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-16 23:52:42 Error: [MissingControllerException] Controller class PostsController could not be found.
+Exception Attributes: array (
+  'class' => 'PostsController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp2/posts/index
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-16 23:52:51 Error: [MissingControllerException] Controller class PostsController could not be found.
+Exception Attributes: array (
+  'class' => 'PostsController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp2/posts/index
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-16 23:53:32 Error: [MissingControllerException] Controller class PostsController could not be found.
+Exception Attributes: array (
+  'class' => 'PostsController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp2/posts/index
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-16 23:55:53 Error: [MissingControllerException] Controller class PostsController could not be found.
+Exception Attributes: array (
+  'class' => 'PostsController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp2/posts/index
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-16 23:56:09 Error: [MissingControllerException] Controller class PostsController could not be found.
+Exception Attributes: array (
+  'class' => 'PostsController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp2/posts/index
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-16 23:58:32 Error: [MissingActionException] Action PostsController::view() could not be found.
+Exception Attributes: array (
+  'controller' => 'PostsController',
+  'action' => 'view',
+)
+Request URL: /cakephp2/posts/view/1
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#1 /Library/WebServer/Documents/cakephp2/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#2 /Library/WebServer/Documents/cakephp2/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#3 {main}
+2015-03-17 02:07:01 Error: Fatal Error (4): parse error in [/Library/WebServer/Documents/cakephp2/app/Controller/PostsController.php, line 37]
+2015-03-17 02:07:01 Error: [FatalErrorException] parse error
+Request URL: /cakephp2/posts/index
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'parse error', '/Library/WebSer...', 37)
+#1 [internal function]: ErrorHandler::handleError(4, 'parse error', '/Library/WebSer...', 37, Array)
+#2 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'parse error', '/Library/WebSer...', 37, Array)
+#3 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-17 02:07:40 Error: Fatal Error (4): parse error in [/Library/WebServer/Documents/cakephp2/app/Controller/PostsController.php, line 37]
+2015-03-17 02:07:40 Error: [FatalErrorException] parse error
+Request URL: /cakephp2/posts/index
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'parse error', '/Library/WebSer...', 37)
+#1 [internal function]: ErrorHandler::handleError(4, 'parse error', '/Library/WebSer...', 37, Array)
+#2 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'parse error', '/Library/WebSer...', 37, Array)
+#3 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-17 02:09:05 Error: Fatal Error (4): parse error in [/Library/WebServer/Documents/cakephp2/app/Controller/PostsController.php, line 37]
+2015-03-17 02:09:05 Error: [FatalErrorException] parse error
+Request URL: /cakephp2/posts/index
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'parse error', '/Library/WebSer...', 37)
+#1 [internal function]: ErrorHandler::handleError(4, 'parse error', '/Library/WebSer...', 37, Array)
+#2 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'parse error', '/Library/WebSer...', 37, Array)
+#3 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-17 02:09:32 Error: Fatal Error (4): parse error in [/Library/WebServer/Documents/cakephp2/app/Controller/PostsController.php, line 37]
+2015-03-17 02:09:32 Error: [FatalErrorException] parse error
+Request URL: /cakephp2/posts/index
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'parse error', '/Library/WebSer...', 37)
+#1 [internal function]: ErrorHandler::handleError(4, 'parse error', '/Library/WebSer...', 37, Array)
+#2 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'parse error', '/Library/WebSer...', 37, Array)
+#3 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-17 02:16:53 Error: Fatal Error (4): parse error in [/Library/WebServer/Documents/cakephp2/app/Controller/PostsController.php, line 37]
+2015-03-17 02:16:53 Error: [FatalErrorException] parse error
+Request URL: /cakephp2/posts/index
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'parse error', '/Library/WebSer...', 37)
+#1 [internal function]: ErrorHandler::handleError(4, 'parse error', '/Library/WebSer...', 37, Array)
+#2 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'parse error', '/Library/WebSer...', 37, Array)
+#3 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-17 02:17:13 Error: Fatal Error (4): parse error in [/Library/WebServer/Documents/cakephp2/app/Controller/PostsController.php, line 37]
+2015-03-17 02:17:13 Error: [FatalErrorException] parse error
+Request URL: /cakephp2/posts/index
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'parse error', '/Library/WebSer...', 37)
+#1 [internal function]: ErrorHandler::handleError(4, 'parse error', '/Library/WebSer...', 37, Array)
+#2 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'parse error', '/Library/WebSer...', 37, Array)
+#3 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-17 02:17:23 Error: Fatal Error (4): parse error in [/Library/WebServer/Documents/cakephp2/app/Controller/PostsController.php, line 37]
+2015-03-17 02:17:23 Error: [FatalErrorException] parse error
+Request URL: /cakephp2/posts/index
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'parse error', '/Library/WebSer...', 37)
+#1 [internal function]: ErrorHandler::handleError(4, 'parse error', '/Library/WebSer...', 37, Array)
+#2 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'parse error', '/Library/WebSer...', 37, Array)
+#3 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-17 02:17:45 Error: Fatal Error (4): parse error in [/Library/WebServer/Documents/cakephp2/app/Controller/PostsController.php, line 36]
+2015-03-17 02:17:45 Error: [FatalErrorException] parse error
+Request URL: /cakephp2/posts/index
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'parse error', '/Library/WebSer...', 36)
+#1 [internal function]: ErrorHandler::handleError(4, 'parse error', '/Library/WebSer...', 36, Array)
+#2 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'parse error', '/Library/WebSer...', 36, Array)
+#3 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-17 02:18:05 Error: Fatal Error (4): parse error in [/Library/WebServer/Documents/cakephp2/app/Controller/PostsController.php, line 36]
+2015-03-17 02:18:05 Error: [FatalErrorException] parse error
+Request URL: /cakephp2/posts/index
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'parse error', '/Library/WebSer...', 36)
+#1 [internal function]: ErrorHandler::handleError(4, 'parse error', '/Library/WebSer...', 36, Array)
+#2 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'parse error', '/Library/WebSer...', 36, Array)
+#3 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-17 02:18:42 Error: Fatal Error (4): parse error in [/Library/WebServer/Documents/cakephp2/app/Controller/PostsController.php, line 36]
+2015-03-17 02:18:42 Error: [FatalErrorException] parse error
+Request URL: /cakephp2/posts/index
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'parse error', '/Library/WebSer...', 36)
+#1 [internal function]: ErrorHandler::handleError(4, 'parse error', '/Library/WebSer...', 36, Array)
+#2 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'parse error', '/Library/WebSer...', 36, Array)
+#3 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-17 02:18:56 Error: Fatal Error (4): parse error in [/Library/WebServer/Documents/cakephp2/app/Controller/PostsController.php, line 36]
+2015-03-17 02:18:56 Error: [FatalErrorException] parse error
+Request URL: /cakephp2/posts/index
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'parse error', '/Library/WebSer...', 36)
+#1 [internal function]: ErrorHandler::handleError(4, 'parse error', '/Library/WebSer...', 36, Array)
+#2 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'parse error', '/Library/WebSer...', 36, Array)
+#3 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-17 02:19:31 Error: Fatal Error (4): parse error in [/Library/WebServer/Documents/cakephp2/app/Controller/PostsController.php, line 37]
+2015-03-17 02:19:31 Error: [FatalErrorException] parse error
+Request URL: /cakephp2/posts/index
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'parse error', '/Library/WebSer...', 37)
+#1 [internal function]: ErrorHandler::handleError(4, 'parse error', '/Library/WebSer...', 37, Array)
+#2 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'parse error', '/Library/WebSer...', 37, Array)
+#3 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-17 02:56:21 Error: Fatal Error (4): parse error in [/Library/WebServer/Documents/cakephp2/app/Controller/PostsController.php, line 50]
+2015-03-17 02:56:21 Error: [FatalErrorException] parse error
+Request URL: /cakephp2/posts
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'parse error', '/Library/WebSer...', 50)
+#1 [internal function]: ErrorHandler::handleError(4, 'parse error', '/Library/WebSer...', 50, Array)
+#2 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'parse error', '/Library/WebSer...', 50, Array)
+#3 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-17 19:55:13 Error: Fatal Error (1): Call to a member function allow() on a non-object in [/Library/WebServer/Documents/cakephp2/app/Controller/UsersController.php, line 15]
+2015-03-17 19:55:13 Error: [FatalErrorException] Call to a member function allow() on a non-object
+Request URL: /cakephp2/users
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Library/WebSer...', 15)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Library/WebSer...', 15, Array)
+#2 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Library/WebSer...', 15, Array)
+#3 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-17 20:18:07 Error: Fatal Error (1): Call to a member function allow() on a non-object in [/Library/WebServer/Documents/cakephp2/app/Controller/AppController.php, line 45]
+2015-03-17 20:18:07 Error: [FatalErrorException] Call to a member function allow() on a non-object
+Request URL: /cakephp2/users
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Library/WebSer...', 45)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Library/WebSer...', 45, Array)
+#2 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Library/WebSer...', 45, Array)
+#3 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-17 20:18:13 Error: Fatal Error (1): Call to a member function allow() on a non-object in [/Library/WebServer/Documents/cakephp2/app/Controller/AppController.php, line 45]
+2015-03-17 20:18:13 Error: [FatalErrorException] Call to a member function allow() on a non-object
+Request URL: /cakephp2/users/add
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Library/WebSer...', 45)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Library/WebSer...', 45, Array)
+#2 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Library/WebSer...', 45, Array)
+#3 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-17 20:27:45 Error: Fatal Error (1): Call to a member function allow() on a non-object in [/Library/WebServer/Documents/cakephp2/app/Controller/AppController.php, line 45]
+2015-03-17 20:27:45 Error: [FatalErrorException] Call to a member function allow() on a non-object
+Request URL: /cakephp2/users/view/1
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Library/WebSer...', 45)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Library/WebSer...', 45, Array)
+#2 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Library/WebSer...', 45, Array)
+#3 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-17 20:29:44 Error: Fatal Error (1): Call to a member function allow() on a non-object in [/Library/WebServer/Documents/cakephp2/app/Controller/AppController.php, line 45]
+2015-03-17 20:29:44 Error: [FatalErrorException] Call to a member function allow() on a non-object
+Request URL: /cakephp2/users
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Library/WebSer...', 45)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Library/WebSer...', 45, Array)
+#2 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Library/WebSer...', 45, Array)
+#3 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-17 20:35:19 Error: Fatal Error (1): Call to a member function allow() on a non-object in [/Library/WebServer/Documents/cakephp2/app/Controller/AppController.php, line 45]
+2015-03-17 20:35:19 Error: [FatalErrorException] Call to a member function allow() on a non-object
+Request URL: /cakephp2/posts/index
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Library/WebSer...', 45)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Library/WebSer...', 45, Array)
+#2 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Library/WebSer...', 45, Array)
+#3 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-17 20:35:21 Error: Fatal Error (1): Call to a member function allow() on a non-object in [/Library/WebServer/Documents/cakephp2/app/Controller/AppController.php, line 45]
+2015-03-17 20:35:21 Error: [FatalErrorException] Call to a member function allow() on a non-object
+Request URL: /cakephp2/posts/index
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Library/WebSer...', 45)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Library/WebSer...', 45, Array)
+#2 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Library/WebSer...', 45, Array)
+#3 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-17 20:36:02 Error: Fatal Error (1): Call to a member function allow() on a non-object in [/Library/WebServer/Documents/cakephp2/app/Controller/AppController.php, line 45]
+2015-03-17 20:36:02 Error: [FatalErrorException] Call to a member function allow() on a non-object
+Request URL: /cakephp2/users
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Library/WebSer...', 45)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Library/WebSer...', 45, Array)
+#2 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Library/WebSer...', 45, Array)
+#3 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-17 20:42:55 Error: Fatal Error (1): Call to a member function allow() on a non-object in [/Library/WebServer/Documents/cakephp2/app/Controller/AppController.php, line 45]
+2015-03-17 20:42:55 Error: [FatalErrorException] Call to a member function allow() on a non-object
+Request URL: /cakephp2/users
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Library/WebSer...', 45)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Library/WebSer...', 45, Array)
+#2 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Library/WebSer...', 45, Array)
+#3 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-17 20:43:33 Error: Fatal Error (1): Call to a member function allow() on a non-object in [/Library/WebServer/Documents/cakephp2/app/Controller/AppController.php, line 45]
+2015-03-17 20:43:33 Error: [FatalErrorException] Call to a member function allow() on a non-object
+Request URL: /cakephp2/users
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Library/WebSer...', 45)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Library/WebSer...', 45, Array)
+#2 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Library/WebSer...', 45, Array)
+#3 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-17 20:45:13 Error: Fatal Error (1): Call to a member function allow() on a non-object in [/Library/WebServer/Documents/cakephp2/app/Controller/AppController.php, line 45]
+2015-03-17 20:45:13 Error: [FatalErrorException] Call to a member function allow() on a non-object
+Request URL: /cakephp2/users
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Library/WebSer...', 45)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Library/WebSer...', 45, Array)
+#2 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Library/WebSer...', 45, Array)
+#3 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-17 20:45:17 Error: Fatal Error (1): Call to a member function allow() on a non-object in [/Library/WebServer/Documents/cakephp2/app/Controller/AppController.php, line 45]
+2015-03-17 20:45:17 Error: [FatalErrorException] Call to a member function allow() on a non-object
+Request URL: /cakephp2/posts/index
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Library/WebSer...', 45)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Library/WebSer...', 45, Array)
+#2 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Library/WebSer...', 45, Array)
+#3 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-17 20:51:04 Error: Fatal Error (1): Call to a member function allow() on a non-object in [/Library/WebServer/Documents/cakephp2/app/Controller/AppController.php, line 45]
+2015-03-17 20:51:04 Error: [FatalErrorException] Call to a member function allow() on a non-object
+Request URL: /cakephp2/posts/index
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Library/WebSer...', 45)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Library/WebSer...', 45, Array)
+#2 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Library/WebSer...', 45, Array)
+#3 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-17 20:51:06 Error: Fatal Error (1): Call to a member function allow() on a non-object in [/Library/WebServer/Documents/cakephp2/app/Controller/AppController.php, line 45]
+2015-03-17 20:51:06 Error: [FatalErrorException] Call to a member function allow() on a non-object
+Request URL: /cakephp2/posts/index
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Library/WebSer...', 45)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Library/WebSer...', 45, Array)
+#2 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Library/WebSer...', 45, Array)
+#3 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-17 20:53:18 Error: Fatal Error (1): Call to a member function allow() on a non-object in [/Library/WebServer/Documents/cakephp2/app/Controller/AppController.php, line 45]
+2015-03-17 20:53:18 Error: [FatalErrorException] Call to a member function allow() on a non-object
+Request URL: /cakephp2/posts/index
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Library/WebSer...', 45)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Library/WebSer...', 45, Array)
+#2 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Library/WebSer...', 45, Array)
+#3 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-17 20:53:20 Error: Fatal Error (1): Call to a member function allow() on a non-object in [/Library/WebServer/Documents/cakephp2/app/Controller/AppController.php, line 45]
+2015-03-17 20:53:20 Error: [FatalErrorException] Call to a member function allow() on a non-object
+Request URL: /cakephp2/posts/index
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Library/WebSer...', 45)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Library/WebSer...', 45, Array)
+#2 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Library/WebSer...', 45, Array)
+#3 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-17 20:53:23 Error: Fatal Error (1): Call to a member function allow() on a non-object in [/Library/WebServer/Documents/cakephp2/app/Controller/AppController.php, line 45]
+2015-03-17 20:53:23 Error: [FatalErrorException] Call to a member function allow() on a non-object
+Request URL: /cakephp2/posts
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Library/WebSer...', 45)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Library/WebSer...', 45, Array)
+#2 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Library/WebSer...', 45, Array)
+#3 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-17 20:53:44 Error: Fatal Error (1): Call to a member function allow() on a non-object in [/Library/WebServer/Documents/cakephp2/app/Controller/AppController.php, line 45]
+2015-03-17 20:53:44 Error: [FatalErrorException] Call to a member function allow() on a non-object
+Request URL: /cakephp2/
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Library/WebSer...', 45)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Library/WebSer...', 45, Array)
+#2 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Library/WebSer...', 45, Array)
+#3 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-17 20:54:03 Error: Fatal Error (1): Call to a member function allow() on a non-object in [/Library/WebServer/Documents/cakephp2/app/Controller/UsersController.php, line 110]
+2015-03-17 20:54:03 Error: [FatalErrorException] Call to a member function allow() on a non-object
+Request URL: /cakephp2/users
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Library/WebSer...', 110)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Library/WebSer...', 110, Array)
+#2 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Library/WebSer...', 110, Array)
+#3 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-17 20:54:47 Error: Fatal Error (1): Call to a member function allow() on a non-object in [/Library/WebServer/Documents/cakephp2/app/Controller/AppController.php, line 45]
+2015-03-17 20:54:47 Error: [FatalErrorException] Call to a member function allow() on a non-object
+Request URL: /cakephp2/users
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Library/WebSer...', 45)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Library/WebSer...', 45, Array)
+#2 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Library/WebSer...', 45, Array)
+#3 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-17 20:54:53 Error: Fatal Error (1): Call to a member function allow() on a non-object in [/Library/WebServer/Documents/cakephp2/app/Controller/AppController.php, line 45]
+2015-03-17 20:54:53 Error: [FatalErrorException] Call to a member function allow() on a non-object
+Request URL: /cakephp2/users
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Library/WebSer...', 45)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Library/WebSer...', 45, Array)
+#2 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Library/WebSer...', 45, Array)
+#3 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-17 20:55:09 Error: Fatal Error (1): Call to a member function allow() on a non-object in [/Library/WebServer/Documents/cakephp2/app/Controller/AppController.php, line 45]
+2015-03-17 20:55:09 Error: [FatalErrorException] Call to a member function allow() on a non-object
+Request URL: /cakephp2/users
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Library/WebSer...', 45)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Library/WebSer...', 45, Array)
+#2 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Library/WebSer...', 45, Array)
+#3 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-17 20:55:26 Error: Fatal Error (1): Call to a member function allow() on a non-object in [/Library/WebServer/Documents/cakephp2/app/Controller/AppController.php, line 45]
+2015-03-17 20:55:26 Error: [FatalErrorException] Call to a member function allow() on a non-object
+Request URL: /cakephp2/users
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Library/WebSer...', 45)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Library/WebSer...', 45, Array)
+#2 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Library/WebSer...', 45, Array)
+#3 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-17 20:59:13 Error: Fatal Error (1): Call to a member function login() on a non-object in [/Library/WebServer/Documents/cakephp2/app/Controller/UsersController.php, line 115]
+2015-03-17 20:59:13 Error: [FatalErrorException] Call to a member function login() on a non-object
+Request URL: /cakephp2/users/login
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Library/WebSer...', 115)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Library/WebSer...', 115, Array)
+#2 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Library/WebSer...', 115, Array)
+#3 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-17 21:00:00 Error: Fatal Error (1): Call to a member function allow() on a non-object in [/Library/WebServer/Documents/cakephp2/app/Controller/UsersController.php, line 110]
+2015-03-17 21:00:00 Error: [FatalErrorException] Call to a member function allow() on a non-object
+Request URL: /cakephp2/users/login
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Library/WebSer...', 110)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Library/WebSer...', 110, Array)
+#2 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Library/WebSer...', 110, Array)
+#3 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-17 21:00:22 Error: Fatal Error (1): Call to a member function allow() on a non-object in [/Library/WebServer/Documents/cakephp2/app/Controller/AppController.php, line 45]
+2015-03-17 21:00:22 Error: [FatalErrorException] Call to a member function allow() on a non-object
+Request URL: /cakephp2/users/login
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Library/WebSer...', 45)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Library/WebSer...', 45, Array)
+#2 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Library/WebSer...', 45, Array)
+#3 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-17 21:03:56 Error: Fatal Error (1): Call to a member function allow() on a non-object in [/Library/WebServer/Documents/cakephp2/app/Controller/AppController.php, line 45]
+2015-03-17 21:03:56 Error: [FatalErrorException] Call to a member function allow() on a non-object
+Request URL: /cakephp2/users/login
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Library/WebSer...', 45)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Library/WebSer...', 45, Array)
+#2 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Library/WebSer...', 45, Array)
+#3 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-17 21:04:43 Error: Fatal Error (1): Call to a member function allow() on a non-object in [/Library/WebServer/Documents/cakephp2/app/Controller/AppController.php, line 45]
+2015-03-17 21:04:43 Error: [FatalErrorException] Call to a member function allow() on a non-object
+Request URL: /cakephp2/users/login
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Library/WebSer...', 45)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Library/WebSer...', 45, Array)
+#2 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Library/WebSer...', 45, Array)
+#3 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-17 21:04:45 Error: Fatal Error (1): Call to a member function allow() on a non-object in [/Library/WebServer/Documents/cakephp2/app/Controller/AppController.php, line 45]
+2015-03-17 21:04:45 Error: [FatalErrorException] Call to a member function allow() on a non-object
+Request URL: /cakephp2/users/login
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Library/WebSer...', 45)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Library/WebSer...', 45, Array)
+#2 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Library/WebSer...', 45, Array)
+#3 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-17 21:10:05 Error: Fatal Error (1): Call to a member function allow() on a non-object in [/Library/WebServer/Documents/cakephp2/app/Controller/UsersController.php, line 110]
+2015-03-17 21:10:05 Error: [FatalErrorException] Call to a member function allow() on a non-object
+Request URL: /cakephp2/users/login
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Library/WebSer...', 110)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Library/WebSer...', 110, Array)
+#2 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Library/WebSer...', 110, Array)
+#3 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-17 21:12:04 Error: Fatal Error (1): Call to a member function allow() on a non-object in [/Library/WebServer/Documents/cakephp2/app/Controller/UsersController.php, line 110]
+2015-03-17 21:12:04 Error: [FatalErrorException] Call to a member function allow() on a non-object
+Request URL: /cakephp2/users/login
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Library/WebSer...', 110)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Library/WebSer...', 110, Array)
+#2 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Library/WebSer...', 110, Array)
+#3 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-17 21:12:06 Error: Fatal Error (1): Call to a member function allow() on a non-object in [/Library/WebServer/Documents/cakephp2/app/Controller/UsersController.php, line 110]
+2015-03-17 21:12:06 Error: [FatalErrorException] Call to a member function allow() on a non-object
+Request URL: /cakephp2/users/login
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Library/WebSer...', 110)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Library/WebSer...', 110, Array)
+#2 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Library/WebSer...', 110, Array)
+#3 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-17 21:12:11 Error: Fatal Error (1): Call to a member function allow() on a non-object in [/Library/WebServer/Documents/cakephp2/app/Controller/AppController.php, line 45]
+2015-03-17 21:12:11 Error: [FatalErrorException] Call to a member function allow() on a non-object
+Request URL: /cakephp2/users/login
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Library/WebSer...', 45)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Library/WebSer...', 45, Array)
+#2 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Library/WebSer...', 45, Array)
+#3 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-17 21:12:24 Error: Fatal Error (1): Call to a member function allow() on a non-object in [/Library/WebServer/Documents/cakephp2/app/Controller/AppController.php, line 45]
+2015-03-17 21:12:24 Error: [FatalErrorException] Call to a member function allow() on a non-object
+Request URL: /cakephp2/users/login
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Library/WebSer...', 45)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Library/WebSer...', 45, Array)
+#2 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Library/WebSer...', 45, Array)
+#3 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-17 21:12:30 Error: Fatal Error (1): Call to a member function allow() on a non-object in [/Library/WebServer/Documents/cakephp2/app/Controller/AppController.php, line 45]
+2015-03-17 21:12:30 Error: [FatalErrorException] Call to a member function allow() on a non-object
+Request URL: /cakephp2/users/login
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Library/WebSer...', 45)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Library/WebSer...', 45, Array)
+#2 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Library/WebSer...', 45, Array)
+#3 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-17 21:12:33 Error: Fatal Error (1): Call to a member function allow() on a non-object in [/Library/WebServer/Documents/cakephp2/app/Controller/AppController.php, line 45]
+2015-03-17 21:12:33 Error: [FatalErrorException] Call to a member function allow() on a non-object
+Request URL: /cakephp2/
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Library/WebSer...', 45)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Library/WebSer...', 45, Array)
+#2 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Library/WebSer...', 45, Array)
+#3 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-17 21:14:19 Error: Fatal Error (1): Call to a member function allow() on a non-object in [/Library/WebServer/Documents/cakephp2/app/Controller/AppController.php, line 45]
+2015-03-17 21:14:19 Error: [FatalErrorException] Call to a member function allow() on a non-object
+Request URL: /cakephp2/
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Library/WebSer...', 45)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Library/WebSer...', 45, Array)
+#2 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Library/WebSer...', 45, Array)
+#3 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-17 21:14:32 Error: Fatal Error (4): parse error, expecting `"function (T_FUNCTION)"' in [/Library/WebServer/Documents/cakephp2/app/Controller/AppController.php, line 47]
+2015-03-17 21:14:32 Error: [FatalErrorException] parse error, expecting `"function (T_FUNCTION)"'
+Request URL: /cakephp2/
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'parse error, ex...', '/Library/WebSer...', 47)
+#1 [internal function]: ErrorHandler::handleError(4, 'parse error, ex...', '/Library/WebSer...', 47, Array)
+#2 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'parse error, ex...', '/Library/WebSer...', 47, Array)
+#3 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-17 21:14:41 Error: Fatal Error (4): parse error, expecting `"function (T_FUNCTION)"' in [/Library/WebServer/Documents/cakephp2/app/Controller/AppController.php, line 47]
+2015-03-17 21:14:41 Error: [FatalErrorException] parse error, expecting `"function (T_FUNCTION)"'
+Request URL: /cakephp2/
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'parse error, ex...', '/Library/WebSer...', 47)
+#1 [internal function]: ErrorHandler::handleError(4, 'parse error, ex...', '/Library/WebSer...', 47, Array)
+#2 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'parse error, ex...', '/Library/WebSer...', 47, Array)
+#3 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-17 21:17:35 Error: Fatal Error (1): Call to a member function allow() on a non-object in [/Library/WebServer/Documents/cakephp2/app/Controller/AppController.php, line 45]
+2015-03-17 21:17:35 Error: [FatalErrorException] Call to a member function allow() on a non-object
+Request URL: /cakephp2/users/login
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Library/WebSer...', 45)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Library/WebSer...', 45, Array)
+#2 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Library/WebSer...', 45, Array)
+#3 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-17 21:17:52 Error: Fatal Error (1): Call to a member function allow() on a non-object in [/Library/WebServer/Documents/cakephp2/app/Controller/AppController.php, line 54]
+2015-03-17 21:17:52 Error: [FatalErrorException] Call to a member function allow() on a non-object
+Request URL: /cakephp2/users/login
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(1, 'Call to a membe...', '/Library/WebSer...', 54)
+#1 [internal function]: ErrorHandler::handleError(1, 'Call to a membe...', '/Library/WebSer...', 54, Array)
+#2 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 1, 'Call to a membe...', '/Library/WebSer...', 54, Array)
+#3 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-17 21:47:10 Error: Fatal Error (4): parse error in [/Library/WebServer/Documents/cakephp2/app/Model/Post.php, line 13]
+2015-03-17 21:47:10 Error: [FatalErrorException] parse error
+Request URL: /cakephp2/posts
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'parse error', '/Library/WebSer...', 13)
+#1 [internal function]: ErrorHandler::handleError(4, 'parse error', '/Library/WebSer...', 13, Array)
+#2 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'parse error', '/Library/WebSer...', 13, Array)
+#3 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-17 21:52:46 Error: [MissingControllerException] Controller class Cakephp2Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Cakephp2Controller',
+  'plugin' => NULL,
+)
+Request URL: /cakephp2/cakephp2/posts
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-17 21:52:57 Error: [MissingControllerException] Controller class Cakephp2Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Cakephp2Controller',
+  'plugin' => NULL,
+)
+Request URL: /cakephp2/cakephp2/posts
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-17 21:57:30 Error: [MissingControllerException] Controller class Cakephp2Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Cakephp2Controller',
+  'plugin' => NULL,
+)
+Request URL: /cakephp2/cakephp2/posts
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-17 21:58:18 Error: [MissingControllerException] Controller class Cakephp2Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Cakephp2Controller',
+  'plugin' => NULL,
+)
+Request URL: /cakephp2/cakephp2/
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-17 22:11:56 Error: Fatal Error (4): parse error, expecting `':'' in [/Library/WebServer/Documents/cakephp2/app/View/Posts/index.ctp, line 8]
+2015-03-17 22:11:56 Error: [FatalErrorException] parse error, expecting `':''
+Request URL: /cakephp2/
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'parse error, ex...', '/Library/WebSer...', 8)
+#1 [internal function]: ErrorHandler::handleError(4, 'parse error, ex...', '/Library/WebSer...', 8, Array)
+#2 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'parse error, ex...', '/Library/WebSer...', 8, Array)
+#3 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-17 22:12:04 Error: Fatal Error (4): parse error in [/Library/WebServer/Documents/cakephp2/app/View/Posts/index.ctp, line 9]
+2015-03-17 22:12:04 Error: [FatalErrorException] parse error
+Request URL: /cakephp2/
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'parse error', '/Library/WebSer...', 9)
+#1 [internal function]: ErrorHandler::handleError(4, 'parse error', '/Library/WebSer...', 9, Array)
+#2 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'parse error', '/Library/WebSer...', 9, Array)
+#3 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-17 22:15:16 Error: [MissingControllerException] Controller class Cakephp2Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Cakephp2Controller',
+  'plugin' => NULL,
+)
+Request URL: /cakephp2/cakephp2/
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-17 22:16:26 Error: [MissingControllerException] Controller class Cakephp2Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Cakephp2Controller',
+  'plugin' => NULL,
+)
+Request URL: /cakephp2/cakephp2/
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-17 22:30:47 Error: [MissingControllerException] Controller class Cakephp2Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Cakephp2Controller',
+  'plugin' => NULL,
+)
+Request URL: /cakephp2/cakephp2/
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-17 22:31:31 Error: [MissingControllerException] Controller class Cakephp2Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Cakephp2Controller',
+  'plugin' => NULL,
+)
+Request URL: /cakephp2/cakephp2/
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-17 22:31:58 Error: [MissingControllerException] Controller class Cakephp2Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Cakephp2Controller',
+  'plugin' => NULL,
+)
+Request URL: /cakephp2/cakephp2/posts
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-17 22:32:02 Error: [MissingControllerException] Controller class Cakephp2Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Cakephp2Controller',
+  'plugin' => NULL,
+)
+Request URL: /cakephp2/cakephp2/posts
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-17 22:32:44 Error: [MissingControllerException] Controller class Cakephp2Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Cakephp2Controller',
+  'plugin' => NULL,
+)
+Request URL: /cakephp2/cakephp2/
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-17 22:32:58 Error: [MissingControllerException] Controller class Cakephp2Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Cakephp2Controller',
+  'plugin' => NULL,
+)
+Request URL: /cakephp2/cakephp2/
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-17 22:34:24 Error: [CakeException] $controller does not implement an isAuthorized() method.
+Request URL: /cakephp2/posts/edit/1
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/lib/Cake/Controller/Component/Auth/BaseAuthorize.php(72): ControllerAuthorize->controller(Object(PostsController))
+#1 /Library/WebServer/Documents/cakephp2/lib/Cake/Controller/Component/AuthComponent.php(502): BaseAuthorize->__construct(Object(ComponentCollection), Array)
+#2 /Library/WebServer/Documents/cakephp2/lib/Cake/Controller/Component/AuthComponent.php(464): AuthComponent->constructAuthorize()
+#3 /Library/WebServer/Documents/cakephp2/lib/Cake/Controller/Component/AuthComponent.php(310): AuthComponent->isAuthorized(Array)
+#4 [internal function]: AuthComponent->startup(Object(PostsController))
+#5 /Library/WebServer/Documents/cakephp2/lib/Cake/Utility/ObjectCollection.php(128): call_user_func_array(Array, Array)
+#6 [internal function]: ObjectCollection->trigger(Object(CakeEvent))
+#7 /Library/WebServer/Documents/cakephp2/lib/Cake/Event/CakeEventManager.php(243): call_user_func(Array, Object(CakeEvent))
+#8 /Library/WebServer/Documents/cakephp2/lib/Cake/Controller/Controller.php(677): CakeEventManager->dispatch(Object(CakeEvent))
+#9 /Library/WebServer/Documents/cakephp2/lib/Cake/Routing/Dispatcher.php(189): Controller->startupProcess()
+#10 /Library/WebServer/Documents/cakephp2/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#11 /Library/WebServer/Documents/cakephp2/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2015-03-17 22:34:47 Error: [CakeException] $controller does not implement an isAuthorized() method.
+Request URL: /cakephp2/posts/delete/4
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/lib/Cake/Controller/Component/Auth/BaseAuthorize.php(72): ControllerAuthorize->controller(Object(PostsController))
+#1 /Library/WebServer/Documents/cakephp2/lib/Cake/Controller/Component/AuthComponent.php(502): BaseAuthorize->__construct(Object(ComponentCollection), Array)
+#2 /Library/WebServer/Documents/cakephp2/lib/Cake/Controller/Component/AuthComponent.php(464): AuthComponent->constructAuthorize()
+#3 /Library/WebServer/Documents/cakephp2/lib/Cake/Controller/Component/AuthComponent.php(310): AuthComponent->isAuthorized(Array)
+#4 [internal function]: AuthComponent->startup(Object(PostsController))
+#5 /Library/WebServer/Documents/cakephp2/lib/Cake/Utility/ObjectCollection.php(128): call_user_func_array(Array, Array)
+#6 [internal function]: ObjectCollection->trigger(Object(CakeEvent))
+#7 /Library/WebServer/Documents/cakephp2/lib/Cake/Event/CakeEventManager.php(243): call_user_func(Array, Object(CakeEvent))
+#8 /Library/WebServer/Documents/cakephp2/lib/Cake/Controller/Controller.php(677): CakeEventManager->dispatch(Object(CakeEvent))
+#9 /Library/WebServer/Documents/cakephp2/lib/Cake/Routing/Dispatcher.php(189): Controller->startupProcess()
+#10 /Library/WebServer/Documents/cakephp2/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#11 /Library/WebServer/Documents/cakephp2/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2015-03-17 22:35:55 Error: [MissingControllerException] Controller class Cakephp2Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Cakephp2Controller',
+  'plugin' => NULL,
+)
+Request URL: /cakephp2/cakephp2/
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-17 22:36:37 Error: [MissingControllerException] Controller class Cakephp2Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Cakephp2Controller',
+  'plugin' => NULL,
+)
+Request URL: /cakephp2/cakephp2/
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-17 22:42:13 Error: [MissingControllerException] Controller class Cakephp2Controller could not be found.
+Exception Attributes: array (
+  'class' => 'Cakephp2Controller',
+  'plugin' => NULL,
+)
+Request URL: /cakephp2/cakephp2/
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-18 00:29:56 Error: Fatal Error (4): parse error in [/Library/WebServer/Documents/cakephp2/app/Controller/PostsController.php, line 9]
+2015-03-18 00:29:56 Error: [FatalErrorException] parse error
+Request URL: /cakephp2/
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'parse error', '/Library/WebSer...', 9)
+#1 [internal function]: ErrorHandler::handleError(4, 'parse error', '/Library/WebSer...', 9, Array)
+#2 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'parse error', '/Library/WebSer...', 9, Array)
+#3 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-18 01:15:59 Error: Fatal Error (4): parse error in [/Library/WebServer/Documents/cakephp2/app/Controller/PostsController.php, line 9]
+2015-03-18 01:15:59 Error: [FatalErrorException] parse error
+Request URL: /cakephp2/
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'parse error', '/Library/WebSer...', 9)
+#1 [internal function]: ErrorHandler::handleError(4, 'parse error', '/Library/WebSer...', 9, Array)
+#2 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'parse error', '/Library/WebSer...', 9, Array)
+#3 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-18 01:50:50 Error: Fatal Error (4): parse error in [/Library/WebServer/Documents/cakephp2/app/Controller/PostsController.php, line 9]
+2015-03-18 01:50:50 Error: [FatalErrorException] parse error
+Request URL: /cakephp2/
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'parse error', '/Library/WebSer...', 9)
+#1 [internal function]: ErrorHandler::handleError(4, 'parse error', '/Library/WebSer...', 9, Array)
+#2 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'parse error', '/Library/WebSer...', 9, Array)
+#3 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-18 01:54:01 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Posts.user_id' in 'where clause'
+Request URL: /cakephp2/
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/lib/Cake/Model/Datasource/DboSource.php(460): PDOStatement->execute(Array)
+#1 /Library/WebServer/Documents/cakephp2/lib/Cake/Model/Datasource/DboSource.php(426): DboSource->_execute('SELECT `Post`.`...', Array)
+#2 /Library/WebServer/Documents/cakephp2/lib/Cake/Model/Datasource/DboSource.php(668): DboSource->execute('SELECT `Post`.`...', Array, Array)
+#3 /Library/WebServer/Documents/cakephp2/lib/Cake/Model/Datasource/DboSource.php(1106): DboSource->fetchAll('SELECT `Post`.`...', false)
+#4 /Library/WebServer/Documents/cakephp2/lib/Cake/Model/Model.php(3022): DboSource->read(Object(Post), Array)
+#5 /Library/WebServer/Documents/cakephp2/lib/Cake/Model/Model.php(2994): Model->_readDataSource('all', Array)
+#6 /Library/WebServer/Documents/cakephp2/app/Controller/PostsController.php(9): Model->find('all', Array)
+#7 [internal function]: PostsController->index()
+#8 /Library/WebServer/Documents/cakephp2/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#9 /Library/WebServer/Documents/cakephp2/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 /Library/WebServer/Documents/cakephp2/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#11 /Library/WebServer/Documents/cakephp2/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2015-03-18 01:55:15 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Post.' in 'field list'
+Request URL: /cakephp2/
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/lib/Cake/Model/Datasource/DboSource.php(460): PDOStatement->execute(Array)
+#1 /Library/WebServer/Documents/cakephp2/lib/Cake/Model/Datasource/DboSource.php(426): DboSource->_execute('SELECT DISTINCT...', Array)
+#2 /Library/WebServer/Documents/cakephp2/lib/Cake/Model/Datasource/DboSource.php(668): DboSource->execute('SELECT DISTINCT...', Array, Array)
+#3 /Library/WebServer/Documents/cakephp2/lib/Cake/Model/Datasource/DboSource.php(1106): DboSource->fetchAll('SELECT DISTINCT...', false)
+#4 /Library/WebServer/Documents/cakephp2/lib/Cake/Model/Model.php(3022): DboSource->read(Object(Post), Array)
+#5 /Library/WebServer/Documents/cakephp2/lib/Cake/Model/Model.php(2994): Model->_readDataSource('first', Array)
+#6 /Library/WebServer/Documents/cakephp2/lib/Cake/Model/Datasource/DboSource.php(599): Model->find('first', Array)
+#7 /Library/WebServer/Documents/cakephp2/lib/Cake/Model/Model.php(827): DboSource->query('findById', Array, Object(Post))
+#8 /Library/WebServer/Documents/cakephp2/app/Controller/PostsController.php(9): Model->__call('findById', Array)
+#9 /Library/WebServer/Documents/cakephp2/app/Controller/PostsController.php(9): Post->findById('all', Array)
+#10 [internal function]: PostsController->index()
+#11 /Library/WebServer/Documents/cakephp2/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#12 /Library/WebServer/Documents/cakephp2/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#13 /Library/WebServer/Documents/cakephp2/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#14 /Library/WebServer/Documents/cakephp2/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#15 {main}
+2015-03-18 01:55:22 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Array' in 'where clause'
+Request URL: /cakephp2/
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/lib/Cake/Model/Datasource/DboSource.php(460): PDOStatement->execute(Array)
+#1 /Library/WebServer/Documents/cakephp2/lib/Cake/Model/Datasource/DboSource.php(426): DboSource->_execute('SELECT `Post`.`...', Array)
+#2 /Library/WebServer/Documents/cakephp2/lib/Cake/Model/Datasource/DboSource.php(668): DboSource->execute('SELECT `Post`.`...', Array, Array)
+#3 /Library/WebServer/Documents/cakephp2/lib/Cake/Model/Datasource/DboSource.php(1106): DboSource->fetchAll('SELECT `Post`.`...', false)
+#4 /Library/WebServer/Documents/cakephp2/lib/Cake/Model/Model.php(3022): DboSource->read(Object(Post), Array)
+#5 /Library/WebServer/Documents/cakephp2/lib/Cake/Model/Model.php(2994): Model->_readDataSource('first', Array)
+#6 /Library/WebServer/Documents/cakephp2/lib/Cake/Model/Datasource/DboSource.php(599): Model->find('first', Array)
+#7 /Library/WebServer/Documents/cakephp2/lib/Cake/Model/Model.php(827): DboSource->query('findById', Array, Object(Post))
+#8 /Library/WebServer/Documents/cakephp2/app/Controller/PostsController.php(9): Model->__call('findById', Array)
+#9 /Library/WebServer/Documents/cakephp2/app/Controller/PostsController.php(9): Post->findById(Array)
+#10 [internal function]: PostsController->index()
+#11 /Library/WebServer/Documents/cakephp2/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#12 /Library/WebServer/Documents/cakephp2/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#13 /Library/WebServer/Documents/cakephp2/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#14 /Library/WebServer/Documents/cakephp2/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#15 {main}
+2015-03-18 01:58:28 Error: Fatal Error (4): parse error in [/Library/WebServer/Documents/cakephp2/app/Controller/PostsController.php, line 9]
+2015-03-18 01:58:28 Error: [FatalErrorException] parse error
+Request URL: /cakephp2/
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'parse error', '/Library/WebSer...', 9)
+#1 [internal function]: ErrorHandler::handleError(4, 'parse error', '/Library/WebSer...', 9, Array)
+#2 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'parse error', '/Library/WebSer...', 9, Array)
+#3 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-18 01:59:14 Error: Fatal Error (4): parse error in [/Library/WebServer/Documents/cakephp2/app/Controller/PostsController.php, line 10]
+2015-03-18 01:59:14 Error: [FatalErrorException] parse error
+Request URL: /cakephp2/
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'parse error', '/Library/WebSer...', 10)
+#1 [internal function]: ErrorHandler::handleError(4, 'parse error', '/Library/WebSer...', 10, Array)
+#2 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'parse error', '/Library/WebSer...', 10, Array)
+#3 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-18 01:59:16 Error: Fatal Error (4): parse error in [/Library/WebServer/Documents/cakephp2/app/Controller/PostsController.php, line 10]
+2015-03-18 01:59:16 Error: [FatalErrorException] parse error
+Request URL: /cakephp2/
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'parse error', '/Library/WebSer...', 10)
+#1 [internal function]: ErrorHandler::handleError(4, 'parse error', '/Library/WebSer...', 10, Array)
+#2 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'parse error', '/Library/WebSer...', 10, Array)
+#3 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-18 01:59:26 Error: Fatal Error (4): parse error in [/Library/WebServer/Documents/cakephp2/app/Controller/PostsController.php, line 10]
+2015-03-18 01:59:26 Error: [FatalErrorException] parse error
+Request URL: /cakephp2/
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'parse error', '/Library/WebSer...', 10)
+#1 [internal function]: ErrorHandler::handleError(4, 'parse error', '/Library/WebSer...', 10, Array)
+#2 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'parse error', '/Library/WebSer...', 10, Array)
+#3 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-18 02:00:07 Error: Fatal Error (4): parse error in [/Library/WebServer/Documents/cakephp2/app/Controller/PostsController.php, line 10]
+2015-03-18 02:00:07 Error: [FatalErrorException] parse error
+Request URL: /cakephp2/
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'parse error', '/Library/WebSer...', 10)
+#1 [internal function]: ErrorHandler::handleError(4, 'parse error', '/Library/WebSer...', 10, Array)
+#2 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'parse error', '/Library/WebSer...', 10, Array)
+#3 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-18 02:00:30 Error: Fatal Error (4): parse error in [/Library/WebServer/Documents/cakephp2/app/Controller/PostsController.php, line 9]
+2015-03-18 02:00:30 Error: [FatalErrorException] parse error
+Request URL: /cakephp2/
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'parse error', '/Library/WebSer...', 9)
+#1 [internal function]: ErrorHandler::handleError(4, 'parse error', '/Library/WebSer...', 9, Array)
+#2 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'parse error', '/Library/WebSer...', 9, Array)
+#3 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-18 02:00:31 Error: Fatal Error (4): parse error in [/Library/WebServer/Documents/cakephp2/app/Controller/PostsController.php, line 9]
+2015-03-18 02:00:31 Error: [FatalErrorException] parse error
+Request URL: /cakephp2/
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'parse error', '/Library/WebSer...', 9)
+#1 [internal function]: ErrorHandler::handleError(4, 'parse error', '/Library/WebSer...', 9, Array)
+#2 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'parse error', '/Library/WebSer...', 9, Array)
+#3 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-18 02:00:43 Error: Fatal Error (4): parse error in [/Library/WebServer/Documents/cakephp2/app/Controller/PostsController.php, line 9]
+2015-03-18 02:00:43 Error: [FatalErrorException] parse error
+Request URL: /cakephp2/
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'parse error', '/Library/WebSer...', 9)
+#1 [internal function]: ErrorHandler::handleError(4, 'parse error', '/Library/WebSer...', 9, Array)
+#2 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'parse error', '/Library/WebSer...', 9, Array)
+#3 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-18 02:00:44 Error: Fatal Error (4): parse error in [/Library/WebServer/Documents/cakephp2/app/Controller/PostsController.php, line 9]
+2015-03-18 02:00:44 Error: [FatalErrorException] parse error
+Request URL: /cakephp2/
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'parse error', '/Library/WebSer...', 9)
+#1 [internal function]: ErrorHandler::handleError(4, 'parse error', '/Library/WebSer...', 9, Array)
+#2 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'parse error', '/Library/WebSer...', 9, Array)
+#3 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-18 02:02:31 Error: Fatal Error (4): parse error in [/Library/WebServer/Documents/cakephp2/app/Controller/PostsController.php, line 9]
+2015-03-18 02:02:31 Error: [FatalErrorException] parse error
+Request URL: /cakephp2/
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'parse error', '/Library/WebSer...', 9)
+#1 [internal function]: ErrorHandler::handleError(4, 'parse error', '/Library/WebSer...', 9, Array)
+#2 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'parse error', '/Library/WebSer...', 9, Array)
+#3 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-18 02:03:47 Error: Fatal Error (4): parse error in [/Library/WebServer/Documents/cakephp2/app/Controller/PostsController.php, line 9]
+2015-03-18 02:03:47 Error: [FatalErrorException] parse error
+Request URL: /cakephp2/
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'parse error', '/Library/WebSer...', 9)
+#1 [internal function]: ErrorHandler::handleError(4, 'parse error', '/Library/WebSer...', 9, Array)
+#2 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'parse error', '/Library/WebSer...', 9, Array)
+#3 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-18 02:04:30 Error: Fatal Error (4): parse error in [/Library/WebServer/Documents/cakephp2/app/Controller/PostsController.php, line 9]
+2015-03-18 02:04:30 Error: [FatalErrorException] parse error
+Request URL: /cakephp2/
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'parse error', '/Library/WebSer...', 9)
+#1 [internal function]: ErrorHandler::handleError(4, 'parse error', '/Library/WebSer...', 9, Array)
+#2 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'parse error', '/Library/WebSer...', 9, Array)
+#3 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-18 02:11:55 Error: Fatal Error (4): parse error in [/Library/WebServer/Documents/cakephp2/app/Controller/PostsController.php, line 9]
+2015-03-18 02:11:55 Error: [FatalErrorException] parse error
+Request URL: /cakephp2/
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'parse error', '/Library/WebSer...', 9)
+#1 [internal function]: ErrorHandler::handleError(4, 'parse error', '/Library/WebSer...', 9, Array)
+#2 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'parse error', '/Library/WebSer...', 9, Array)
+#3 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-18 02:13:59 Error: Fatal Error (4): parse error in [/Library/WebServer/Documents/cakephp2/app/Controller/PostsController.php, line 9]
+2015-03-18 02:13:59 Error: [FatalErrorException] parse error
+Request URL: /cakephp2/
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'parse error', '/Library/WebSer...', 9)
+#1 [internal function]: ErrorHandler::handleError(4, 'parse error', '/Library/WebSer...', 9, Array)
+#2 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'parse error', '/Library/WebSer...', 9, Array)
+#3 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-18 02:14:00 Error: Fatal Error (4): parse error in [/Library/WebServer/Documents/cakephp2/app/Controller/PostsController.php, line 9]
+2015-03-18 02:14:00 Error: [FatalErrorException] parse error
+Request URL: /cakephp2/
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/lib/Cake/Error/ErrorHandler.php(213): ErrorHandler::handleFatalError(4, 'parse error', '/Library/WebSer...', 9)
+#1 [internal function]: ErrorHandler::handleError(4, 'parse error', '/Library/WebSer...', 9, Array)
+#2 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(931): call_user_func('ErrorHandler::h...', 4, 'parse error', '/Library/WebSer...', 9, Array)
+#3 /Library/WebServer/Documents/cakephp2/lib/Cake/Core/App.php(904): App::_checkFatalError()
+#4 [internal function]: App::shutdown()
+#5 {main}
+2015-03-18 02:14:55 Error: [PDOException] SQLSTATE[42S22]: Column not found: 1054 Unknown column 'Posts.user_id' in 'where clause'
+Request URL: /cakephp2/
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/lib/Cake/Model/Datasource/DboSource.php(460): PDOStatement->execute(Array)
+#1 /Library/WebServer/Documents/cakephp2/lib/Cake/Model/Datasource/DboSource.php(426): DboSource->_execute('SELECT `Post`.`...', Array)
+#2 /Library/WebServer/Documents/cakephp2/lib/Cake/Model/Datasource/DboSource.php(668): DboSource->execute('SELECT `Post`.`...', Array, Array)
+#3 /Library/WebServer/Documents/cakephp2/lib/Cake/Model/Datasource/DboSource.php(1106): DboSource->fetchAll('SELECT `Post`.`...', false)
+#4 /Library/WebServer/Documents/cakephp2/lib/Cake/Model/Model.php(3022): DboSource->read(Object(Post), Array)
+#5 /Library/WebServer/Documents/cakephp2/lib/Cake/Model/Model.php(2994): Model->_readDataSource('all', Array)
+#6 /Library/WebServer/Documents/cakephp2/app/Controller/PostsController.php(9): Model->find('all', Array)
+#7 [internal function]: PostsController->index()
+#8 /Library/WebServer/Documents/cakephp2/lib/Cake/Controller/Controller.php(490): ReflectionMethod->invokeArgs(Object(PostsController), Array)
+#9 /Library/WebServer/Documents/cakephp2/lib/Cake/Routing/Dispatcher.php(193): Controller->invokeAction(Object(CakeRequest))
+#10 /Library/WebServer/Documents/cakephp2/lib/Cake/Routing/Dispatcher.php(167): Dispatcher->_invoke(Object(PostsController), Object(CakeRequest))
+#11 /Library/WebServer/Documents/cakephp2/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#12 {main}
+2015-03-18 03:09:51 Error: [MissingControllerException] Controller class AdminController could not be found.
+Exception Attributes: array (
+  'class' => 'AdminController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp2/admin
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-18 03:10:21 Error: [MissingControllerException] Controller class Index.phpController could not be found.
+Exception Attributes: array (
+  'class' => 'Index.phpController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp2/admin/index.php
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-18 03:10:34 Error: [MissingControllerException] Controller class IndexController could not be found.
+Exception Attributes: array (
+  'class' => 'IndexController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp2/admin/index
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-18 03:10:41 Error: [MissingControllerException] Controller class AdminController could not be found.
+Exception Attributes: array (
+  'class' => 'AdminController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp2/admin
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
+2015-03-18 03:10:50 Error: [MissingControllerException] Controller class UUserController could not be found.
+Exception Attributes: array (
+  'class' => 'UUserController',
+  'plugin' => NULL,
+)
+Request URL: /cakephp2/uUser
+Stack Trace:
+#0 /Library/WebServer/Documents/cakephp2/app/webroot/index.php(118): Dispatcher->dispatch(Object(CakeRequest), Object(CakeResponse))
+#1 {main}
